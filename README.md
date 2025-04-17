@@ -1,2 +1,4 @@
 # Shopify
-this is an E-Commerce website for online shopping
+This is an E-Commerce website for online shopping.
+
+Author-Lakshya Soni.
