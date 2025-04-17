@@ -1,0 +1,109 @@
+* {
+    color: white;
+    text-decoration: none;
+}
+
+#head{
+    background-color: black;
+    width: 1200px;
+    height: auto;
+    padding: 10px;
+}
+
+#head01{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 40px;
+    width: 1200px;
+}
+
+#head02{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    width: 1200px;
+}
+
+#text01{
+    font-size: 25px;
+    color:  rgb(247, 166, 15);
+}
+
+#text02{
+    font-size: 25px;
+    color:  rgb(247, 166, 15);
+}
+
+#Lakshya{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid rgb(247, 166, 15);
+}
+
+#op01{
+    color: black;
+    background-color: rgb(247, 166, 15);
+    width: 50px;
+    height: 38px;
+}
+
+#in01{
+    height: 30px;
+    color: black;
+}
+
+#marquee{
+    background-color: #333;
+    padding: 5px;
+    width: 1200px;
+    height: 30px;
+    padding: 10px;
+}
+
+marquee {
+    font-size: 25px;
+}
+
+#grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    column-gap: 10px;
+    width: 1200px;
+    padding: 10px;
+    overflow-x: scroll;
+    height: auto;
+}
+
+#grid-items{
+    height: 150px;
+    width: 150px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px 0px black;
+}
+
+#marquee02{
+    background-color: black;
+    text-align: center;
+    width: 1200px;
+    padding: 10px;
+}
+
+#kids{
+    background-color: #333;
+    padding: 10px;
+    margin-top: 0px;
+    width: 1200px;
+}
+
+#HK {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline;
+    color: orange;
+}
