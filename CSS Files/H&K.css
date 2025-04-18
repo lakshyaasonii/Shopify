@@ -1,0 +1,56 @@
+* {
+    color: white;
+    text-decoration: none;
+}
+
+#head{
+    background-color: black;
+    width: 1200px;
+    height: auto;
+    padding: 10px;
+}
+
+#head01{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 40px;
+    width: 1200px;
+}
+
+#head02{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    width: 1200px;
+}
+
+#text01{
+    font-size: 25px;
+    color:  rgb(247, 166, 15);
+}
+
+#text02{
+    font-size: 25px;
+    color:  rgb(247, 166, 15);
+}
+
+#Lakshya{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 2px solid rgb(247, 166, 15);
+}
+
+#op01{
+    color: black;
+    background-color: rgb(247, 166, 15);
+    width: 50px;
+    height: 38px;
+}
+
+#in01{
+    height: 30px;
+    color: black;
+}
